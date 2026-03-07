@@ -29,4 +29,8 @@ class MaxMinInArray {
 
         obj.findMaxMin(arr);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 84129411872a9a6fb59019a1cb7c9ff3965bd978
